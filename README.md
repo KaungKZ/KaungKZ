@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact: I love hot cappuccino ☕
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="KaungKZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
