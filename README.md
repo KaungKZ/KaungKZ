@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for help with community projects 
 
-- 😄 2020 Goals: To build a portfolio and getting a job !
+- 😄 2020 Goals: To build a portfolio and master at React !
 
 - ⚡ Fun fact: I love hot cappuccino ☕
 
