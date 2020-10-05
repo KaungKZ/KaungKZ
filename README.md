@@ -2,7 +2,7 @@
 
 ## I am a Front End Developer ! 
 
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning to master React !
 
 - 👯 I’m looking to collaborate on web projects with other developers 
 
