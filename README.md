@@ -1,10 +1,8 @@
 ### Hi there, I'm Kaung Khant Zaw 👋
 
-## I am a Front End Developer !
+## I am a Front End Developer ! 
 
-- 🔭 I’m currently working on my [gatsby project][l-project] ! 
-
-- 🌱 I’m currently learning react and style-components
+- 🌱 I’m currently learning react 
 
 - 👯 I’m looking to collaborate on web projects with other developers 
 
