@@ -1,5 +1,3 @@
-### Hi there, I'm Kaung Khant Zaw 👋
-
 ## I am a Front End Developer ! 
 
 - 🌱 I’m currently learning to master React !
@@ -8,7 +6,7 @@
 
 - 🤔 I’m looking for help with community projects 
 
-- 😄 2020 Goals: To build a portfolio and master at React !
+- 😄 2021 Goals: To build a portfolio and master at React !
 
 - ⚡ Fun fact: I love hot cappuccino ☕
 
