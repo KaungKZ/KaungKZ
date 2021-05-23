@@ -1,21 +1,14 @@
-## I am a Front End Developer ! 
+##  I am a Front End Developer <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
 
-- 🌱 I’m currently learning to master React !
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] 
 
-- 👯 I’m looking to collaborate on web projects with other developers 
+* Primary Coding Language: **Javascript**
 
-- 🤔 I’m looking for help with community projects 
+* 2021 Goals: **Make a portfolio and master at React !**
 
-- 😄 2021 Goals: To build a portfolio and master at React !
+* Fun fact: **I love hot cappuccino ☕**
 
-- ⚡ Fun fact: I love hot cappuccino ☕
-
-### Connect with me:
-
-[<img align="left" alt="KaungKZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="KaungKZ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -39,13 +32,14 @@
 
 ### <img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/49403996/89346153-9767f100-d6ce-11ea-92a5-d3e58d4b24a4.png" /> Latest Repositories
 <!-- BLOG-POST-LIST:START -->
-- https://github.com/KaungKZ/Emerald
-- https://github.com/KaungKZ/Connect
-- https://github.com/KaungKZ/We-Save-Forests
-- https://github.com/KaungKZ/ExploreMars
-- https://github.com/KaungKZ/Hotel
+- [Emerald Frontend E-commerce ](https://github.com/KaungKZ/Emerald)
+- [Missing Heroes Myanmar](https://github.com/KaungKZ/Missing-Heroes-MM)
+- [Connect](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
+- [We Save Forests](https://github.com/KaungKZ/We-Save-Forests)
+- [Montserrat Hotel](https://github.com/KaungKZ/Hotel)
 <!-- BLOG-POST-LIST:END -->
 
 [l-project]: https://github.com/KaungKZ/Emerald
 [twitter]: https://twitter.com/KaungKZ2000
 [linkedin]: https://www.linkedin.com/in/kaung-khant-zaw-72549718a/
+
