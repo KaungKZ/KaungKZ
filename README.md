@@ -32,11 +32,11 @@
 
 ### <img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/49403996/89346153-9767f100-d6ce-11ea-92a5-d3e58d4b24a4.png" /> Latest Repositories
 <!-- BLOG-POST-LIST:START -->
+- [Portfolio](https://github.com/KaungKZ/Portfolio)
+- [MyMovies](https://github.com/KaungKZ/MyMovies)
 - [Emerald Frontend E-commerce ](https://github.com/KaungKZ/Emerald)
 - [Missing Heroes Myanmar](https://github.com/KaungKZ/Missing-Heroes-MM)
-- [Connect](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
 - [We Save Forests](https://github.com/KaungKZ/We-Save-Forests)
-- [Montserrat Hotel](https://github.com/KaungKZ/Hotel)
 <!-- BLOG-POST-LIST:END -->
 
 [l-project]: https://github.com/KaungKZ/Emerald
