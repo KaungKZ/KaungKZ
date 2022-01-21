@@ -5,7 +5,7 @@
 
 * Primary Coding Language: **Javascript**
 
-* 2022 Goals: **Make a portfolio and learn vuejs !**
+* 2022 Goals: **learn vuejs and be master at reactjs !**
 
 * Fun fact: **I love hot cappuccino ☕**
 
