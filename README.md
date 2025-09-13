@@ -5,7 +5,7 @@
 
 * Primary Coding Language: **Javascript**
 
-* 2024 Goals: **learn Typescript !**
+* 2025 Goals: **learn Typescript !**
 
 * Fun fact: **I love hot cappuccino ☕**
 
